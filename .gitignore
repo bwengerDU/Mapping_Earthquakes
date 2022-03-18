@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# ignore the config.js
+static/js/config.js
+
 # mypy
 .mypy_cache/
 .dmypy.json
