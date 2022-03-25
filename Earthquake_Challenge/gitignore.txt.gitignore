@@ -1,0 +1,12 @@
+# ignore the config.js
+static/js/config.js
+
+# ignore the Deliiverable1code.js
+static/js/Deliiverable1code.js
+
+# ignore the logic.js
+static/js/logic.js
+
+# ignore the major_eq_starter_logic.js
+static/js/major_eq_starter_logic.js
+
